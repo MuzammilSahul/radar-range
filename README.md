@@ -49,7 +49,8 @@ plot(Pmin2, Rmax2)
 
 ## Output:
 
-![WhatsApp Image 2026-03-30 at 17 58 01 (2)](https://github.com/user-attachments/assets/0c7197b9-03ae-4734-986c-ac933aa6d7a2)
+![WhatsApp Image 2026-03-30 at 17 58 01 (3)](https://github.com/user-attachments/assets/3a620c4d-ace7-43e1-871a-6f0c66d9f8a8)
+
 ![WhatsApp Image 2026-03-30 at 18 47 50](https://github.com/user-attachments/assets/61f41d6c-ea6c-4a6a-a5b1-a0f86d8ce2b2)
 
 
